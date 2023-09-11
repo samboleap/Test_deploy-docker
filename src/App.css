@@ -1,0 +1,21 @@
+.App {
+  padding: 50px;
+  background-color: whitesmoke;
+}
+
+thead th {
+  font-size: 15px;
+  padding: 20px !important;
+  text-align: center;
+}
+thead tr {
+  background-color: pink;
+}
+tbody {
+  background-color: white;
+}
+tbody td , th{
+  vertical-align: middle;
+  font-size: 14px;
+  padding: 20px !important;
+}
